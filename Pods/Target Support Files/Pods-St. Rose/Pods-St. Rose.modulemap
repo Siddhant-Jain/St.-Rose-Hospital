@@ -1,0 +1,6 @@
+framework module Pods_St__Rose {
+  umbrella header "Pods-St. Rose-umbrella.h"
+
+  export *
+  module * { export * }
+}
